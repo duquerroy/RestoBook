@@ -1,0 +1,1 @@
+<?php echo json_encode(array("name"=> $mess,"sansa"=> $sansa)); ?>

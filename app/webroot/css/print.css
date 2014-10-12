@@ -1,0 +1,31 @@
+#sidebar, #navbar, .action, .boutPrint {
+	display: none;
+}
+
+.page-header {
+  padding-bottom: 9px;
+  margin: 0;
+  border-bottom: 1px solid #eee;
+}
+
+.reserv li.small, li.restoBlock, li.nbrTable, li.nbr{
+	width: 40px;
+}
+.reserv li.person{
+	width: 100px;
+}
+.reserv li.room{
+	width: 80px;
+}
+
+.reserv li.free{
+	width: 80px;
+}
+
+.reserv li.clock{
+	width: 180px;
+}
+
+.boto {
+	display: block !important;
+}
